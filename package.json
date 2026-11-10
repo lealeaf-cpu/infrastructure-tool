@@ -1,0 +1,12 @@
+{
+  "name": "infrastructure-decision-tool",
+  "version": "1.0.0",
+  "description": "Subnet Host Checker and Compute Environment Selector",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
